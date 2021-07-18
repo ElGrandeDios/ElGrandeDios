@@ -3,4 +3,4 @@ I am mainly looking to eventually and proggresively learn pro level C# (pronounc
 I also want to learn ethical hacking (WhiteHat).
 I am mostly a self-learner.
 Also, you can hire me anytime you want (Anytime after I am an adult).
-Plus, I am on www.replit.com as ElGrandeDios.
+Plus, I am on www.replit.com as ElGrandeDios. Www.replit.com/@ElGrandeDios
