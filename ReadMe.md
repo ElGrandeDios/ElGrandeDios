@@ -1,4 +1,4 @@
-Hi! I am your FF (Friend Forever) Sid!! 
+Hi! I am Sid!! 
 I am mainly looking to eventually and proggresively learn pro level C# (pronounced C SHARP), Java, Swift, Python and HTML, CSS and JS.
 I also want to learn ethical hacking (WhiteHat).
 I am mostly a self-learner.
