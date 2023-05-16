@@ -1,7 +1,7 @@
 
 # Hi! I am Sid!! 😊
 
-I'm currently learning Unreal Engine and participating
+I'm currently learning Unreal Engine and participating in web developent competitions (you can view one such repo @martian
 I am mainly looking to eventually and proggresively learn pro level C++(mostly C++), C# (pronounced C SHARP), Java, Swift and HTML, CSS and JS.
 I also want to learn ethical hacking (WhiteHat).
 I also use .NET  MAUI and other .NET products.
